@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1077649082928",
+    "firebase_url": "https://durproject-95d5b-default-rtdb.firebaseio.com",
+    "project_id": "durproject-95d5b",
+    "storage_bucket": "durproject-95d5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077649082928:android:9942c9d3c99fe6f115bbf5",
+        "android_client_info": {
+          "package_name": "com.hmtbasdas.durapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077649082928-taph2003p3m8ikoiugu3if9m2ruqsfdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcxPok2pOpnwErf42f3P3jpDx0wDYNa_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077649082928-taph2003p3m8ikoiugu3if9m2ruqsfdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
